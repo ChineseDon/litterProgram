@@ -1,0 +1,11 @@
+{
+	"miniprogramRoot": "./miniprogram",
+	"pluginRoot": "./plugin",
+	"compileType": "miniprogram",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxf7cb7c371fd4390f",
+	"projectname": "%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%A4%A7%E5%85%A8",
+	"condition": {}
+}
